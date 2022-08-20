@@ -1,5 +1,5 @@
 # Pulumi training using TypeScript (2nd session)
-Exercises to learn how to use Pulumi (2nd session)
+Answers to the 2nd training session
 
 ## Answers ##
 
