@@ -26,4 +26,4 @@ Exercises to learn how to use Pulumi (2nd session)
 10. Set a stack README to your stack
 
 ### Answers ###
-You will find all the answers in [README.md](answer/README.md)
+You will find all the answers [here](answer/)
