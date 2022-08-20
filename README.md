@@ -21,6 +21,9 @@ Exercises to learn how to use Pulumi (2nd session)
    * the plain text value of `apiKey` set in step 1 as `insecureApiKey`
 9. In one command, set the stack tag `pet` as the randomly generated pet name
 
-## Bonus/Challenges ##
+### Bonus/Challenges ###
 
 10. Set a stack README to your stack
+
+### Answers ###
+You will find all the answers in [README.md](answer/README.md)
