@@ -3,7 +3,7 @@ Exercises to learn how to use Pulumi (2nd session)
 
 ## Content ##
 
-0. Create an `exercise` and switch to it
+0. Create an `exercise` folder and switch to it
 1. Create a new TypeScript project
 2. Create a new configuration entry named `ownerName`
 3. Create a new configuration entry named `subscriptionId`
