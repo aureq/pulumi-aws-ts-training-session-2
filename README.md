@@ -29,5 +29,9 @@ The series of tasks below ill help you learn how to use Pulumi configuration and
 
 10. Set a stack README to your stack
 
-### Answers ###
+### Resources ###
+
+* Pulumi [examples](https://github.com/pulumi/examples)
+
+## Answers ##
 You will find all the answers [here](answer/).
