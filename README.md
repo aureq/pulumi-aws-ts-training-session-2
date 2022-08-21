@@ -1,6 +1,10 @@
 # Pulumi training using TypeScript (2nd session)
 Exercises to learn how to use Pulumi (2nd session)
 
+## Introduction ##
+
+The series of tasks below ill help you learn how to use Pulumi configuration and secrets. You will also learn how to basic operations such as string concatenation on  Output<T>.
+
 ## Content ##
 
 0. Create an `exercise` folder and switch to it
